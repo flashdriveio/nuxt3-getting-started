@@ -1,5 +1,5 @@
 {
-  "name": "example-with-pages",
+  "name": "example-hello-world",
   "private": true,
   "devDependencies": {
     "nuxt3": "latest"
