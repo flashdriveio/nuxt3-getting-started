@@ -2,4 +2,4 @@
 
 Based on https://github.com/nuxt/framework/tree/main/examples/hello-world
 
-To deploy on FlashDrive.io, simply connect your Git repository.
+To deploy on Qoddi.com, simply connect your Git repository.
